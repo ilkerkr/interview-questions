@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400;1,500&display=swap");
+
+.head {
+  // border: 2px solid red;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+main {
+  // border: 2px solid red;
+  width: 50%;
+  margin: 1rem auto;
+  box-shadow: 10px 10px 10px black;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.question {
+  color: rgb(141, 3, 3);
+  font-weight: 900;
+  font-size: 1.6rem;
+}
+
+.key {
+  cursor: pointer;
+  font-size: 1.6rem;
+}
+
+.answer {
+  color: white;
+  // visibility: hidden;
+}
+
+.answer::selection {
+  color: rgb(141, 3, 3);
+}

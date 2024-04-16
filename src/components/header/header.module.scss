@@ -1,0 +1,12 @@
+@import "../../scss/variables";
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+
+.title {
+    text-align: center;
+    margin: 2rem;
+    color: var(--white-color);
+    font-weight: var(--font-bold);
+    font-size: 2rem;
+    font-family: "Rowdies", sans-serif;
+    letter-spacing: .2rem;
+}

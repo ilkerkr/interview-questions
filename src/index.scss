@@ -1,0 +1,6 @@
+@import "./scss/variables";
+@import "./scss/reset";
+
+body {
+    background: linear-gradient(90deg,var(--body-purple-color) 20%, var(--body-pink-color));
+}
