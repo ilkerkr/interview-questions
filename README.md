@@ -1,5 +1,7 @@
 <h1>Interview Questions<h1>
 
+![Interview-Questions-gif](./public/Interview-questions.gif)
+
 [👉click here to login interview questions](https://interview-questions-1.netlify.app/)
 
 <h2>Project Skeleton</h2>
